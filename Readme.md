@@ -13,7 +13,7 @@ I'm passionate about building modern, responsive, and user-focused web experienc
 -   🌐 Currently mastering **Web Development** in the **Skill Sikhao** training program.
 -   💼 Interned at **Jzarr IT Company** as a **Front-End Developer**, where I contributed to real-world projects using modern web technologies.
 -   🤖 Exploring **Agentic & Robotic AI** at **Panaversity**, focusing on **No-Code Agents with OpenAI AgentKit**.
--   💡 Graduated in the top tier from the **Governor Sindh IT Initiative (Quarter One)** with an **A grade**, excelling among 50,000 students.
+-   💡 Learning Agentic AI from **Governor Sindh IT Initiative**
 -   🧠 Actively learning **Next.js** to build full-stack, server-rendered **React applications**.
 
 ---
