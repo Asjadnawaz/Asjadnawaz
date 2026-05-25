@@ -10,7 +10,7 @@ I'm passionate about building modern, responsive, and user-focused web experienc
 
 ## 🚀 About Me
 
--   🌐 Currently mastering **Web Development** in the **Skill Sikhao** training program.
+-   🌐 Currently mastering **Web Development** in the **Bano Qabil** training program.
 -   💼 Interned at **Jzarr IT Company** as a **Front-End Developer**, where I contributed to real-world projects using modern web technologies.
 -   🤖 Exploring **Agentic & Robotic AI** at **Panaversity**, focusing on **No-Code Agents with OpenAI AgentKit**.
 -   💡 Learning Agentic AI from **Governor Sindh IT Initiative**
