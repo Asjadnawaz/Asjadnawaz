@@ -1,147 +1,81 @@
-# Hi there, I'm Asjad Nawaz Khan 👋
+# Hi there, I'm Asjad Nawaz Khan 👋 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZlYmNhOGEwY2JkMDYwNmE1YmZkOTg0N2M1YTg0MWFmNjFlYTI5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1SXDZ4K6GZg2Dbyxc/giphy.gif" width="35">
 
-<img src="https://raw.githubusercontent.com/Asjad-Nawaz-Khan/Asjad-Nawaz-Khan/main/developer.gif" alt="Coding Animation" align="right" width="400"/>
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&width=500&lines=Full-Stack+MERN+Developer;Agentic+AI+Engineer+Student;Next.js+%26+React+Enthusiast;Building+Autonomous+Agents" alt="Typing SVG" />
+  </a>
+</p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=false&vCenter=true&width=435&lines=Aspiring+Web+Developer;Front-End+Enthusiast;AI+Learner;React.js+Developer" alt="Typing SVG" /></a>
+<img src="https://raw.githubusercontent.com/Asjad-Nawaz-Khan/Asjad-Nawaz-Khan/main/developer.gif" alt="Coding Animation" align="right" width="380" style="border-radius: 10px; margin-left: 20px;"/>
 
-I'm passionate about building modern, responsive, and user-focused web experiences. My journey began with a love for computers and has evolved into creating dynamic, interactive applications with code.
+I am a passionate **Software Developer** and **AI Engineering Student** focused on crafting clean, responsive user interfaces and architecting smart, autonomous AI agent solutions. I love bridging the gap between robust engineering and engaging user experiences.
 
 ---
 
 ## 🚀 About Me
 
--   🌐 Currently mastering **Web Development** in the **Bano Qabil** training program.
--   💼 Interned at **Jzarr IT Company** as a **Front-End Developer**, where I contributed to real-world projects using modern web technologies.
--   🤖 Exploring **Agentic & Robotic AI** at **Panaversity**, focusing on **No-Code Agents with OpenAI AgentKit**.
--   💡 Learning Agentic AI from **Governor Sindh IT Initiative**
--   🧠 Actively learning **Next.js** to build full-stack, server-rendered **React applications**.
+* 🧠 Currently specializing as a **Certified Agentic & Robotic AI Engineer** at **Panaversity**, deep-diving into multi-agent orchestration and the **OpenAI Agents SDK**.
+* 🌐 Advanced training in web engineering via the **Governor Sindh IT Initiative** (AI, Web 3.0 & Metaverse) and full-stack development.
+* 💼 Former **Front-End Developer Intern** at **Jzarr IT Company**, building real-world production interfaces.
+* 💻 Actively mastering the **MERN Stack** and building server-side rendered architectures with **Next.js**.
 
 ---
 
 ## 🧩 My Tech Stack
 
-Here are the technologies I work with. I'm especially focused on building with **React.js** and its ecosystem.
+### 💻 Frontend & Styling
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" />
+  </a>
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#-tech-stack">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a href="#-tech-stack">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      </a>
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <a href="#-tech-stack">
-        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#-tech-stack">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#-tech-stack">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      </a>
-      <br>Next.js
-    </td>
-        <td align="center" width="96">
-      <a href="#-tech-stack">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#-tech-stack">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#-tech-stack">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#-tech-stack">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      </a>
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <a href="#-tech-stack">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      </a>
-      <br>VS Code
-    </td>
-        <td align="center" width="96">
-      <a href="#-tech-stack">
-        <img src="https://skillicons.dev/icons?i=canva" width="48" height="48" alt="Canva" />
-      </a>
-      <br>Canva
-    </td>
-    <td align="center" width="96">
-      <a href="#-tech-stack">
-        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-      </a>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <a href="#-tech-stack">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      </a>
-      <br>Figma
-    </td>
-     <td align="center" width="96">
-      <a href="#-tech-stack">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
-  </tr>
-</table>
+### ⚙️ Backend, Databases & Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,java,cpp" />
+  </a>
+</p>
+
+### 🛠️ Tools, Systems & Design
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,figma,canva" />
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Featured Projects
 
--   **🧥 Fabrica (E-Commerce Platform):** Developing a responsive clothing marketplace with a component-based architecture using **React.js**.
--   **💻 Skill Sikhao Assignments:** Completed hands-on tasks covering DOM manipulation, Objects, Classes, and browser Storage APIs.
--   **🧠 AI Agent Projects:** Exploring no-code AI use cases with **OpenAI AgentKit** as part of my Panaversity coursework.
+* 🧥 **Fabrica (E-Commerce Platform):** A responsive, highly interactive clothing marketplace engineered with modern component architecture in **React.js**.
+* 📝 **Full-Stack OOP Blog Engine:** Built a secure blog app featuring role-based access control, persistent sessions, and clean MVC separation using the **MERN Stack**.
+* 📊 **Sorting Algorithm Visualizer:** A desktop-based educational suite designed in **Java Swing** to intuitively step through complex algorithms with custom visual controls.
+* 🤖 **Autonomous AI Workflows:** Orchestrating automated multi-agent systems and no-code setups leveraging specialized agentic SDKs.
 
 ---
 
-## 🌱 Current Focus
+## 📊 Git Insights & Stats
 
--   Deepening my expertise in **React.js** and **Next.js** for full-stack development.
--   Building robust, interactive web applications with a focus on clean code.
--   Exploring the intersection of **AI Agents** and modern web technologies.
-
----
-
-## 📫 Let's Connect!
-
-Find me on:
-
-<p align="left">
-<a href="https://www.linkedin.com/in/asjad-nawaz-khan-b527532b4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-<a href="https://github.com/asjad-nawaz-khan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asjad-nawaz-khan&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=C9D1D9" alt="Asjad's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjad-nawaz-khan&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=C9D1D9" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
+## 📫 Let's Collaborate!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/asjad-nawaz-khan-b527532b4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/asjad-nawaz-khan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</p>
+
 <p align="center">
-  <i>“Code with logic, design with purpose, and learn with passion.”</i>
+  <br />
+  <i>“Code with logic, design with purpose, and learn with absolute passion.”</i>
 </p>
