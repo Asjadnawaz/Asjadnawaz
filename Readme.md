@@ -14,7 +14,7 @@ I am a passionate **Software Developer** and **AI Engineering Student** focused 
 
 ## 🚀 About Me
 
-* 🧠 Currently specializing as a **Certified Agentic & Robotic AI Engineer** at **Panaversity**, deep-diving into multi-agent orchestration and the **OpenAI Agents SDK**.
+* 🧠 Currently specializing as a **Certified Agentic & Robotic AI Engineer** at **Panaversity**, deep-diving into multi-agent orchestration and **Web Development** from **Bano Qabil**.
 * 🌐 Advanced training in web engineering via the **Governor Sindh IT Initiative** (AI, Web 3.0 & Metaverse) and full-stack development.
 * 💼 Former **Front-End Developer Intern** at **Jzarr IT Company**, building real-world production interfaces.
 * 💻 Actively mastering the **MERN Stack** and building server-side rendered architectures with **Next.js**.
