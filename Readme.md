@@ -17,6 +17,9 @@
   <a href="https://asjadnawaz.github.io/Personal-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/View_Portfolio-Live_Site-00BFFF?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio Badge"/>
   </a>
+  <a href="https://gitroll.io/profile/uBrCigmZ44ve9ZTZspchCifPN8sS2" target="_blank">
+    <img src="https://img.shields.io/badge/GitRoll-Verified_Dev-7B2CBF?style=for-the-badge&logo=git&logoColor=white" alt="GitRoll Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/asjadnawazkhan/" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -127,9 +130,15 @@ I focus on solving complex business bottlenecks through code. By bridging the ga
 
 ---
 
-## 📊 Analytics & Code Activity
+## 📊 Analytics & Verified Code Quality
 
 <div align="center">
+  <p>
+    <a href="https://gitroll.io/profile/uBrCigmZ44ve9ZTZspchCifPN8sS2" target="_blank">
+      <img src="https://img.shields.io/badge/GitRoll-View_Verified_Code_Rank_%26_Skill_Assessment-7B2CBF?style=for-the-badge&logo=git&logoColor=white" alt="GitRoll Assessment"/>
+    </a>
+  </p>
+  
   <a href="https://github.com/Asjadnawaz">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Asjadnawaz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
   </a>
@@ -146,6 +155,6 @@ Have a product idea, need an autonomous AI integration, or looking for a reliabl
 
 <div align="center">
 
-**[Drop me an Email](mailto:asjadnawaz2002@gmail.com)** &nbsp; • &nbsp; **[Connect on LinkedIn](https://www.linkedin.com/in/asjadnawazkhan/)** &nbsp; • &nbsp; **[Review My Portfolio](https://asjadnawaz.github.io/Personal-portfolio/)**
+**[Drop me an Email](mailto:asjadnawaz2002@gmail.com)** &nbsp; • &nbsp; **[Connect on LinkedIn](https://www.linkedin.com/in/asjadnawazkhan/)** &nbsp; • &nbsp; **[Review My Portfolio](https://asjadnawaz.github.io/Personal-portfolio/)** &nbsp; • &nbsp; **[GitRoll Verification](https://gitroll.io/profile/uBrCigmZ44ve9ZTZspchCifPN8sS2)**
 
 </div>
