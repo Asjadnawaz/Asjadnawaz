@@ -1,45 +1,51 @@
 <div align="center">
+
 # Asjad Nawaz Khan
-### Full-Stack Engineer | AI Automation & Agentic Systems
- 
+### **Full-Stack Engineer & Agentic AI Architect**
+
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Applications+with+Next.js+%26+React;Agentic+AI+Systems+and+Automated+Workflows;Clean%2C+Maintainable%2C+Production-Ready+Code">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Applications+with+Next.js+%26+React;Agentic+AI+Systems+and+Automated+Workflows;Clean%2C+Maintainable%2C+Production-Ready+Code" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Building+Scalable+Full-Stack+Web+Applications;Architecting+Autonomous+AI+Agents+%26+Workflows;Delivering+Fast%2C+Reliable+%26+Business-Ready+Software;Engineering+Solutions+for+the+Modern+Web">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Building+Scalable+Full-Stack+Web+Applications;Architecting+Autonomous+AI+Agents+%26+Workflows;Delivering+Fast%2C+Reliable+%26+Business-Ready+Software;Engineering+Solutions+for+the+Modern+Web" alt="Typing SVG" />
   </a>
 </p>
+
 <p align="center">
-  I build full-stack web applications and AI-driven automation systems, focused on clean architecture and reliable, production-ready code.
+  I design and deploy scalable digital products and intelligent workflows that turn complex ideas into fast, reliable, and business-ready experiences.
 </p>
+
 <p align="center">
   <a href="https://asjadnawaz.github.io/Personal-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View_Site-00BFFF?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/View_Portfolio-Live_Site-00BFFF?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/asjadnawazkhan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:asjadnawaz2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
+
 </div>
+
 ---
- 
-## About
- 
-I work across the stack — from database design to client-side interfaces — and increasingly focus on integrating AI agents into that work to automate repetitive processes and add intelligence to products.
- 
-* **Full-stack development:** Modular, secure, and maintainable code, built with long-term scalability in mind.
-* **AI-driven automation:** Multi-agent systems and custom workflows that reduce manual effort.
-* **Interface design:** Responsive, accessible frontends built with modern tooling.
+
+## 💡 Engineering Business Value
+
+I focus on solving complex business bottlenecks through code. By bridging the gap between robust full-stack architecture and cutting-edge autonomous AI, I deliver applications that are secure, highly performant, and easily maintainable.
+
+* **Scalability & Clean Architecture:** Writing modular, secure, and maintainable code built for long-term growth.
+* **AI-Powered Automation:** Integrating multi-agent AI systems to automate repetitive workflows and enhance product intelligence.
+* **Exceptional User Experiences:** Developing responsive, accessible, and high-conversion interfaces using modern frontend tooling.
+
 ---
- 
-## Core Expertise & Tech Stack
- 
-**Product Development:** End-to-end development of production-ready applications — connecting databases with dynamic client-side interfaces using Next.js, React, Node.js, and MongoDB.
- 
-**Agentic AI & Automation:** Building automated, multi-agent systems and workflows with Python, LangChain, and current LLM frameworks.
- 
+
+## ⚙️ Core Expertise & Tech Stack
+
+* **🚀 Product Development (Full-Stack):** End-to-end development of production-ready applications, seamlessly connecting robust databases with dynamic client-side interfaces using **Next.js, React, Node.js, and MongoDB**.
+* **🤖 Agentic AI & Automation:** Architecting automated, intelligent multi-agent systems and custom workflows leveraging **Python, LangChain, and modern LLM frameworks**.
+
 <div align="center">
+
 | Area | Technologies |
 | :--- | :--- |
 | **Frontend** | `React.js` `Next.js` `TypeScript` `JavaScript (ES6+)` `Tailwind CSS` `Bootstrap` |
@@ -47,82 +53,99 @@ I work across the stack — from database design to client-side interfaces — a
 | **Data & Cloud** | `MongoDB` `Firebase` `Vercel` |
 | **AI Tooling** | `Agentic Frameworks` `LangChain` `Chainlit` `Prompt Engineering` |
 | **DevOps & Tools** | `Git` `GitHub` `Postman` `VS Code` `Figma` |
- 
+
 <br/>
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,mongodb,tailwind,python,firebase,git,github&theme=dark" alt="Skill Icons" />
 </a>
+
 </div>
+
 ---
- 
-## Case Studies
- 
+
+## 💼 Featured Case Studies
+
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">Stateful AI Chatbot</h3>
-      <p><b>Problem:</b> Businesses need support systems that retain conversation context securely across sessions.</p>
-      <p><b>Solution:</b> A stateful, Python-based conversational agent built with Chainlit, with persistent authentication for secure, context-aware interactions.</p>
+      <h3 align="left">🤖 Stateful AI Chatbot</h3>
+      <p><b>Description:</b> An intelligent, context-aware conversational agent featuring secure user authentication.</p>
+      <p><b>Problem:</b> Businesses require scalable user-support systems that retain context securely.</p>
+      <p><b>Solution:</b> Engineered a stateful Python-based AI agent using Chainlit, integrating persistent authentication for secure interactions.</p>
       <p><b>Tech:</b> <code>Python</code> <code>Chainlit</code> <code>LLM Integrations</code></p>
-      <p><a href="https://github.com/Asjadnawaz/Stateful-Chatbot-with-Authentication-using-Chainlit" target="_blank">View Repository →</a></p>
+      <p>
+        <a href="https://github.com/Asjadnawaz/Stateful-Chatbot-with-Authentication-using-Chainlit" target="_blank">💻 View Repository</a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">Enterprise MERN Blog Platform</h3>
-      <p><b>Problem:</b> Content teams need a secure platform with clearly defined user roles.</p>
-      <p><b>Solution:</b> A full MVC-architecture CMS with persistent sessions, indexed database queries, and complete CRUD pipelines.</p>
+      <h3 align="left">📝 Enterprise MERN Blog Platform</h3>
+      <p><b>Description:</b> A secure, role-based content management system.</p>
+      <p><b>Problem:</b> Content teams need secure, robust platforms with clear role separation.</p>
+      <p><b>Solution:</b> Built a full MVC architecture utilizing persistent sessions, optimized database indexing, and comprehensive CRUD pipelines.</p>
       <p><b>Tech:</b> <code>MongoDB</code> <code>Express</code> <code>React</code> <code>Node.js</code></p>
-      <p><a href="https://github.com/Asjadnawaz/Blog-App" target="_blank">View Repository →</a></p>
+      <p>
+        <a href="https://github.com/Asjadnawaz/Blog-App" target="_blank">💻 View Repository</a>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">Azlan Dairy & Restaurant</h3>
-      <p><b>Problem:</b> A local food business needed a digital presence to reach modern customers.</p>
-      <p><b>Solution:</b> A responsive web application that modernized the brand's identity and simplified menu browsing for customers.</p>
+      <h3 align="left">🍽️ Azlan Dairy & Restaurant</h3>
+      <p><b>Description:</b> A digital storefront and operational platform for a local food business.</p>
+      <p><b>Problem:</b> Traditional businesses lack the digital presence required for modern customer acquisition.</p>
+      <p><b>Solution:</b> Designed a highly responsive, dynamic web application that modernizes brand identity and streamlines menu accessibility.</p>
       <p><b>Tech:</b> <code>React</code> <code>Tailwind</code> <code>JavaScript</code></p>
-      <p><a href="https://github.com/Asjadnawaz/Azlan_Dairy_Restaurant" target="_blank">View Repository →</a></p>
+      <p>
+        <a href="https://github.com/Asjadnawaz/Azlan_Dairy_Restaurant" target="_blank">💻 View Repository</a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">Personal Portfolio</h3>
-      <p><b>Problem:</b> Developer portfolios often suffer from cluttered UI and slow load times.</p>
-      <p><b>Solution:</b> A responsive, component-driven site built for clarity, accessibility, and fast performance.</p>
+      <h3 align="left">🎨 Professional Portfolio Architecture</h3>
+      <p><b>Description:</b> A high-performance, conversion-optimized personal branding platform.</p>
+      <p><b>Problem:</b> Standard developer portfolios often suffer from poor UI/UX and slow load times.</p>
+      <p><b>Solution:</b> Developed a responsive, component-driven application focused on scannability, accessibility, and visual impact.</p>
       <p><b>Tech:</b> <code>React.js</code> <code>CSS Modules</code> <code>Vercel</code></p>
       <p>
-        <a href="https://github.com/Asjadnawaz/Personal-Porfolio-Website" target="_blank">View Repository →</a> &nbsp;|&nbsp;
-        <a href="https://asjadnawaz.github.io/Personal-portfolio/" target="_blank">Live Demo →</a>
+        <a href="https://github.com/Asjadnawaz/Personal-Porfolio-Website" target="_blank">💻 View Repository</a> &nbsp;|&nbsp;
+        <a href="https://asjadnawaz.github.io/Personal-portfolio/" target="_blank">🔗 Live Demo</a>
       </p>
     </td>
   </tr>
 </table>
+
 ---
- 
-## Experience
- 
-* **Agentic & Robotic AI Engineer** *(Certification in progress)* — **Panaversity**
-  Studying multi-agent orchestration, LLM tooling, and applied Python architectures.
-* **Web Development Specialist** — **Bano Qabil & Governor Sindh IT Initiative**
-  Training in Web 3.0, Metaverse integrations, and full-stack engineering fundamentals.
-* **Front-End Developer (Intern)** — **Jzarr IT Company**
-  Built production interfaces alongside cross-functional teams, delivering accessible, responsive UI components.
+
+## 📈 Professional Experience & Milestones
+
+* **Agentic & Robotic AI Engineer (Certification in Progress)** — *Panaversity*
+  * Deep-diving into multi-agent orchestration, LLM tooling, and advanced Python architectures.
+* **Web Development Specialist** — *Bano Qabil & Governor Sindh IT Initiative*
+  * Advanced training in Web 3.0, Metaverse integrations, and full-stack engineering.
+* **Front-End Developer (Former Intern)** — *Jzarr IT Company*
+  * Built real-world production interfaces, collaborating with cross-functional teams to deliver accessible and responsive UI components.
+
 ---
- 
-## GitHub Analytics
- 
+
+## 📊 Analytics & Code Activity
+
 <div align="center">
   <a href="https://github.com/Asjadnawaz">
-    <img src="https://github-readme-stats.vercel.app/api?username=Asjadnawaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Asjadnawaz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/Asjadnawaz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asjadnawaz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Asjadnawaz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
   </a>
 </div>
+
 ---
- 
-## Get in Touch
- 
-Have a product idea, an automation problem, or a full-stack role you're looking to fill? I'd be glad to talk it through.
- 
+
+## 🤝 Let's Build Something Exceptional
+
+Have a product idea, need an autonomous AI integration, or looking for a reliable full-stack engineer to scale your team? Let's turn your concept into a reliable digital solution.
+
 <div align="center">
-**[Email](mailto:asjadnawaz2002@gmail.com)** &nbsp;•&nbsp; **[LinkedIn](https://www.linkedin.com/in/asjadnawazkhan/)** &nbsp;•&nbsp; **[Portfolio](https://asjadnawaz.github.io/Personal-portfolio/)**
- 
+
+**[Drop me an Email](mailto:asjadnawaz2002@gmail.com)** &nbsp; • &nbsp; **[Connect on LinkedIn](https://www.linkedin.com/in/asjadnawazkhan/)** &nbsp; • &nbsp; **[Review My Portfolio](https://asjadnawaz.github.io/Personal-portfolio/)**
+
 </div>
